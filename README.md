@@ -5,8 +5,7 @@
 
 2️⃣ How to Set Up the Environment
     # Clone the repository
-    git clone https://github.com/yourusername/combinational-depth-prediction.git  
-    cd combinational-depth-prediction  
+    git clone https://github.com/AradhanaMote/Silicon-Engineering.git  
 
     # Create a virtual environment (Optional)
     python -m venv venv  
